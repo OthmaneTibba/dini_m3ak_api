@@ -1,5 +1,0 @@
-{
-    "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin/Release/net8.0/publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/18853dba-f1fa-4acc-a278-36e7bba330c4/resourceGroups/eu-tibba-rga/providers/Microsoft.Web/sites/dinimaak"
-}
