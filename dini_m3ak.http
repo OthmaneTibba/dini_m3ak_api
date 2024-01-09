@@ -1,0 +1,6 @@
+@dini_m3ak_HostAddress = http://localhost:5257
+
+GET {{dini_m3ak_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

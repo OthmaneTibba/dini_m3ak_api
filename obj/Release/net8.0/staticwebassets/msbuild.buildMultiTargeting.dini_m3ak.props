@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/dini_m3ak.props" />
+</Project>
